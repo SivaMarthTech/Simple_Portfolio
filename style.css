@@ -1,0 +1,118 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .container{
+    padding: 50px;
+  }
+
+  .section_one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+  }
+
+  .section_one__contact{
+                   background-color: orangered;
+                   color: white;
+                   text-decoration: none;
+                   padding-left: 10px;
+                   padding-right: 10px;
+                   padding-top: 5px;
+                   padding-bottom: 5px;
+                   display: inline-block;
+                   margin-top: 10px;
+  }
+
+  .section_one__name{
+    font-size: 60px;
+  }
+
+  .section_one__role{
+    font-size: 30px;
+    margin-top: 10px;
+  }
+
+  .section_two, .section_three, .section_four, .section_five{
+    margin: 20px;
+  }
+
+  .section_two__desc, .section_three__desc, .section_four__desc, .section_five__desc{
+    margin: 10px;
+  }
+  .section_three{
+    background-color: #6462FD;
+    color: black;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 20px;
+    height: 200px;
+    vertical-align: top;
+  }
+
+  .section_four{
+    background-color: #FE7517;
+    color: black;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 20px;
+    height: 200px;
+    vertical-align: top;
+  }
+
+  .section_five{
+    background-color: black;
+    color: white;
+    padding: 20px;
+  }
+.section_five__title a{
+  color: lightblue;
+}
+
+.section_four li, .section_three li{
+list-style: none;
+}
+
+.contact_form{
+  margin:20px;
+}
+
+.contact-form__input, .contact-form__email, .contact-form__textarea, .contact-form__submit{
+  margin-top: 10px;
+}
+
+.contact-form__input{
+padding: 10px;
+border: none;
+border-bottom: solid black 1px;
+}
+
+.contact-form__email{
+  padding: 10px;
+  border: none;
+  border-bottom: solid black 1px;
+  }
+.contact-form__textarea{
+  padding: 10px;
+  border: none;
+  border: solid black 1px;
+  }
+
+  .contact-form__submit{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    border: solid black 1px;
+    background-color: orangered;
+    color: black;
+    border: none;
+    }
