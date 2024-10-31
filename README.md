@@ -1,4 +1,4 @@
-![portfolio2](https://github.com/user-attachments/assets/dc27c8a9-3f52-4fc7-abdf-3782d883616f)# Simple Portfolio Website 🎉
+# Simple Portfolio Website 🌐
 
 This repository contains the code for a basic personal portfolio website built using **HTML** and **CSS**. It showcases my skills, projects, and interests and includes a simple contact form for reaching out.
 
@@ -29,4 +29,3 @@ This repository contains the code for a basic personal portfolio website built u
    git clone https://github.com/yourusername/portfolio.git
    ```
 2. **Open `index.html` in your browser** to view the site.
-
