@@ -26,6 +26,6 @@ This repository contains the code for a basic personal portfolio website built u
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   https://sivamarthtech.github.io/Simple_Portfolio/index.html
    ```
 2. **Open `index.html` in your browser** to view the site.
