@@ -29,3 +29,7 @@ This repository contains the code for a basic personal portfolio website built u
    https://sivamarthtech.github.io/Simple_Portfolio/index.html
    ```
 2. **Open `index.html` in your browser** to view the site.
+
+## Screenshots![Task_1_Week_1](https://github.com/user-attachments/assets/9302c014-66ad-4615-922b-23faeb1f8394)
+![Task_1_Week_1 1](https://github.com/user-attachments/assets/483bb87f-8f08-415b-ae09-cb35c829ab1b)
+
